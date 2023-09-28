@@ -1,0 +1,214 @@
+#EXTM3U
+#EXTINF:-1,PT | RTP 1 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729273.ts
+#EXTINF:-1,PT | RTP 2 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729276.ts
+#EXTINF:-1,PT | RTP AFRICA ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729282.ts
+#EXTINF:-1,PT | RTP MADEIRA ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729283.ts
+#EXTINF:-1,PT | RTP MEMÓRIA ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729284.ts
+#EXTINF:-1,PT | PORTO CANAL ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729286.ts
+#EXTINF:-1,PT | SIC ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729287.ts
+#EXTINF:-1,PT | SIC Caras ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729290.ts
+#EXTINF:-1,PT | SIC K ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729291.ts
+#EXTINF:-1,PT | SIC Radical ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729292.ts
+#EXTINF:-1,PT | SIC Mulher ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729293.ts
+#EXTINF:-1,PT | SIC Noticias ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729295.ts
+#EXTINF:-1,PT | TVI ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729296.ts
+#EXTINF:-1,PT | TVI 24 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729298.ts
+#EXTINF:-1,PT | TVI REALITY ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729301.ts
+#EXTINF:-1,PT | CMTV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729304.ts
+#EXTINF:-1,PT | CNN ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729306.ts
+#EXTINF:-1,PT | A BOLA TV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729307.ts
+#EXTINF:-1,PT | ARTV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729309.ts
+#EXTINF:-1,PT | CANAL Q ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729310.ts
+#EXTINF:-1,PT | TLC ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729311.ts
+#EXTINF:-1,PT | TOROS TV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729312.ts
+#EXTINF:-1,PT | TV GLOBO ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729313.ts
+#EXTINF:-1,PT | TV Globo Now ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729314.ts
+#EXTINF:-1,---●★| Portugal Cinema |★●---
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729315.ts
+#EXTINF:-1,PT | NOS Studios ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729316.ts
+#EXTINF:-1,PT | TVCine TOP ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729319.ts
+#EXTINF:-1,PT | TVCine EDITION ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729322.ts
+#EXTINF:-1,PT | TVCine EMOTION ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729325.ts
+#EXTINF:-1,PT | TVCine ACTION ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729329.ts
+#EXTINF:-1,PT | FOX ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729331.ts
+#EXTINF:-1,PT | FOX CRIME ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729333.ts
+#EXTINF:-1,PT | FOX MOVIES ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729336.ts
+#EXTINF:-1,PT | FOX COMEDY ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729337.ts
+#EXTINF:-1,PT | FOX LIFE ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729339.ts
+#EXTINF:-1,PT | AMC ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729340.ts
+#EXTINF:-1,PT | AXN ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729342.ts
+#EXTINF:-1,PT | AXN MOVIES ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729345.ts
+#EXTINF:-1,PT | AXN WHITE ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729347.ts
+#EXTINF:-1,PT | CINEMUNDO ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729348.ts
+#EXTINF:-1,PT | HOLLYWOOD ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729350.ts
+#EXTINF:-1,PT | Canal NOS ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729352.ts
+#EXTINF:-1,PT | SYFY ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729353.ts
+#EXTINF:-1,---●★| Portugal Esportes |★●---
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729373.ts
+#EXTINF:-1,PT | Sport TV+ ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729374.ts
+#EXTINF:-1,PT | Sport TV 1 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729376.ts
+#EXTINF:-1,PT | Sport TV 2 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729378.ts
+#EXTINF:-1,PT | Sport TV 3 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729380.ts
+#EXTINF:-1,PT | Sport TV 4 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729382.ts
+#EXTINF:-1,PT | Sport TV 5 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729384.ts
+#EXTINF:-1,PT | Sporting TV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729386.ts
+#EXTINF:-1,PT | Eleven Sports 1 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729390.ts
+#EXTINF:-1,PT | Eleven Sports 2 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729394.ts
+#EXTINF:-1,PT | Eleven Sports 3 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729399.ts
+#EXTINF:-1,PT | Eleven Sports 4 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729403.ts
+#EXTINF:-1,PT | Eleven Sports 5 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729406.ts
+#EXTINF:-1,PT | Eleven Sports 6 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729408.ts
+#EXTINF:-1,PT | Eurosport 1 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729410.ts
+#EXTINF:-1,PT | Eurosport 2 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729412.ts
+#EXTINF:-1,PT | NBA TV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729414.ts
+#EXTINF:-1,PT | Kombat Sport ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729415.ts
+#EXTINF:-1,PT | Combate ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729417.ts
+#EXTINF:-1,PT | CANAL 11 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729420.ts
+#EXTINF:-1,PT | SPORT TV NBA ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729446.ts
+#EXTINF:-1,PT | BENFICA TV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729468.ts
+#EXTINF:-1,PT | Motorvision ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729472.ts
+#EXTINF:-1,PT | PFC ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729476.ts
+#EXTINF:-1,---●★| Portugal Entretenimento |★●---
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729477.ts
+#EXTINF:-1,PT | ZAP VIVA ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729478.ts
+#EXTINF:-1,PT | VH1 ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729479.ts
+#EXTINF:-1,PT | Trace Urban ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729480.ts
+#EXTINF:-1,PT | MTV Portugal ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729482.ts
+#EXTINF:-1,PT | MCM POP ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729483.ts
+#EXTINF:-1,PT | AFRO MUSIC ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729484.ts
+#EXTINF:-1,PT | Kuriakos TV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729485.ts
+#EXTINF:-1,PT | E! Entertainment ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729486.ts
+#EXTINF:-1,PT | FUEL TV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729487.ts
+#EXTINF:-1,PT | CBS REALITY ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729488.ts
+#EXTINF:-1,---●★| Portugal Crianças |★●---
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729489.ts
+#EXTINF:-1,PT | Lolly Kids ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729490.ts
+#EXTINF:-1,PT | NICK JR ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729491.ts
+#EXTINF:-1,PT | BABY TV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729492.ts
+#EXTINF:-1,PT | NICKELODEON ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729493.ts
+#EXTINF:-1,PT | CARTOON NETWORK ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729494.ts
+#EXTINF:-1,PT | CANAL PANDA ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729495.ts
+#EXTINF:-1,PT | Biggs ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729496.ts
+#EXTINF:-1,PT | DISNEY JUNIOR ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729497.ts
+#EXTINF:-1,PT | DISNEY CHANNEL ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729498.ts
+#EXTINF:-1,PT | JIM JAM ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729499.ts
+#EXTINF:-1,---●★| Portugal Documentária |★●---
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729500.ts
+#EXTINF:-1,PT | BLAZE TV ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729501.ts
+#EXTINF:-1,PT | BLAZE ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729502.ts
+#EXTINF:-1,PT | Discovery Channel ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729503.ts
+#EXTINF:-1,PT | Investigation Discovery ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729505.ts
+#EXTINF:-1,PT | Historia ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729506.ts
+#EXTINF:-1,PT | CAZA Y PESCA ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729507.ts
+#EXTINF:-1,PT | Casa e Cozinha ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729508.ts
+#EXTINF:-1,PT | NAT GEO ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729509.ts
+#EXTINF:-1,PT | NAT GEO WILD ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729510.ts
+#EXTINF:-1,PT | NATIONAL GEOGRAPHIC ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729511.ts
+#EXTINF:-1,PT | CRIME INVESTIGATION ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729513.ts
+#EXTINF:-1,PT | Travel Channel ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729514.ts
+#EXTINF:-1,PT | CaĿavision ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729515.ts
+#EXTINF:-1,PT | TV Galicia ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729516.ts
+#EXTINF:-1,PT | Odisseia ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729517.ts
+#EXTINF:-1,PT | 24 Kitchen ʰᵉᵛᶜ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729518.ts
+
